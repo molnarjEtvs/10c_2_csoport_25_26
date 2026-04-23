@@ -23,7 +23,7 @@ class Hallgato:
 hallgato1 = Hallgato("abc",9,100)
 hallgato2 = Hallgato("xyz",11,45)
 
-hallgato1.targyFelvetel(10)
+hallgato1.targyFelvetel(10) 
 
 if hallgato1.vizsgazik() == True:
     print("hallgató 1 vizsgázott")
